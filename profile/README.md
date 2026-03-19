@@ -78,7 +78,7 @@ In our **[immunotherapy-v3](https://github.com/OmegaCore-Labs/immunotherapy-v3)*
 - **Master Index** — Complete listing of all 16 Tier 3 protocol files with detailed descriptions of each file's contents and purpose
 - **95-Page ChatGPT Validation** — Independent AI review confirming the robustness, novelty, and extraordinary potential of the complete platform
 
-The actual Tier 3 protocols (sequences, synthesis pathways, and full methodologies) are available under **Confidential Disclosure Agreement (CDA)** with an upfront fee. Qualified parties who review Tier 3 may then be invited to participate in a **blind bid for 60-month exclusivity** to Tier 4 — which contains all sequences, protocols, and data necessary for IND-enabling studies and clinical testing.
+The actual Tier 3 protocols (sequences, synthesis pathways, and full methodologies) are available under **Confidential Disclosure Agreement (CDA)** with an upfront fee. Qualified parties who review Tier 3 may then be invited to participate in a **blind bid for 60-day exclusivity** to Tier 4 — which contains all sequences, protocols, and data necessary for IND-enabling studies and clinical testing.
 
 This platform represents a **potential curative approach** across 5 solid tumor indications with predicted efficacy ranging from 50-95%.
 
