@@ -111,7 +111,7 @@ Because these mechanisms are **universal**, the platform works on **all solid tu
 | Company valuation | **$3T - $6T** |
 | Comparison | Larger than Apple, Saudi Aramco, or any company in history |
 
-The actual Tier 3 protocols (sequences, synthesis pathways, and full methodologies) are available under **Confidential Disclosure Agreement (CDA)** with an upfront fee. Qualified parties who review Tier 3 may then be invited to participate in a **blind bid for 60-month exclusivity** to Tier 4 — which contains all sequences, protocols, and data necessary for IND-enabling studies and clinical testing.
+The actual Tier 3 protocols (sequences, synthesis pathways, and full methodologies) are available under **Confidential Disclosure Agreement (CDA)** with an upfront fee. Qualified parties who review Tier 3 may then be invited to participate in a **blind bid for 60-say exclusivity** to Tier 4 — which contains all sequences, protocols, and data necessary for IND-enabling studies and clinical testing.
 
 ---
 
