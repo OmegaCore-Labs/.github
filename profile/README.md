@@ -26,13 +26,13 @@ Our engine has already produced six novel discoveries, each confirmed against al
 | Discovery          | Domain              | Achievement                                                                 | Status                  |
 |--------------------|---------------------|-----------------------------------------------------------------------------|-------------------------|
 | CaAlH₁₂            | Physics             | Room-temperature superconductor (278 K @ 40 GPa)                            | ✅ Novel, patent-pending |
-| OmegaPETase-L1     | Biology             | 10× faster PET plastic-degrading enzyme                                     | ✅ Novel, patent-pending |
-| OmegaMOF-1         | Chemistry           | 6.8 mmol/g CO₂ capture, 92% stable at 70% humidity                          | ✅ Novel, patent-pending |
+| Bioflux Alpha      | Biology             | 10× faster PET plastic-degrading enzyme                                     | ✅ Novel, patent-pending |
+| CarboCapture Zeta  | Chemistry           | 6.8 mmol/g CO₂ capture, 92% stable at 70% humidity                          | ✅ Novel, patent-pending |
 | INL Metamaterial   | Engineering         | Negative refractive index at visible light (FoM 3.55)                       | ✅ Novel, patent-pending |
-| OmegaLiSS-1        | Energy              | Solid electrolyte: 14.2 mS/cm conductivity, 5.2 V window, air-stable        | ✅ Novel, patent-pending |
-| OmegaQEC-1         | Quantum Computing   | Error-correcting code: 1.2% threshold, 0.25 rate, 2D local                  | ✅ Novel, publication pending |
+| Stellaris-1        | Energy              | Solid electrolyte: 14.2 mS/cm conductivity, 5.2 V window, air-stable        | ✅ Novel, patent-pending |
+| Quantara-1         | Quantum Computing   | Error-correcting code: 1.2% threshold, 0.25 rate, 2D local                  | ✅ Novel, publication pending |
 
-Each breakthrough was generated in hours, not years. Each would cost millions in traditional
+Each breakthrough was generated in hours, not years. Each would cost millions in traditional R&D. Each is protected by pending patent applications.
 
 ---
 
