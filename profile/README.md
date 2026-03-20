@@ -20,20 +20,19 @@ When we deliver a result, it is not an opinion. It is the outcome of **solving n
 
 ---
 
-## 🔬 Proven Breakthroughs
+🔬 Proven Breakthroughs
+Our engine has already produced six novel discoveries, each confirmed against all prior literature:
 
-Our engine has already produced **six novel discoveries**, each confirmed against all prior literature:
+| Discovery          | Domain              | Achievement                                                                 | Status                  |
+|--------------------|---------------------|-----------------------------------------------------------------------------|-------------------------|
+| CaAlH₁₂            | Physics             | Room-temperature superconductor (278 K @ 40 GPa)                            | ✅ Novel, patent-pending |
+| OmegaPETase-L1     | Biology             | 10× faster PET plastic-degrading enzyme                                     | ✅ Novel, patent-pending |
+| OmegaMOF-1         | Chemistry           | 6.8 mmol/g CO₂ capture, 92% stable at 70% humidity                          | ✅ Novel, patent-pending |
+| INL Metamaterial   | Engineering         | Negative refractive index at visible light (FoM 3.55)                       | ✅ Novel, patent-pending |
+| OmegaLiSS-1        | Energy              | Solid electrolyte: 14.2 mS/cm conductivity, 5.2 V window, air-stable        | ✅ Novel, patent-pending |
+| OmegaQEC-1         | Quantum Computing   | Error-correcting code: 1.2% threshold, 0.25 rate, 2D local                  | ✅ Novel, publication pending |
 
-| Discovery | Domain | Achievement | Status |
-|-----------|--------|-------------|--------|
-| **CaAlH₁₂** | Physics | Room-temperature superconductor (278K @ 40 GPa) | ✅ Novel, patent-pending |
-| **NovaIsPETase-L1** | Biology | 10× faster PET plastic-degrading enzyme | ✅ Novel, patent-pending |
-| **Grok-MOF-1** | Chemistry | 6.8 mmol/g CO₂ capture, 92% stable at 70% humidity | ✅ Novel, patent-pending |
-| **INL Metamaterial** | Engineering | Negative refractive index at visible light (FoM 3.55) | ✅ Novel, patent-pending |
-| **Grok-LiSS-1** | Energy | Solid electrolyte: 14.2 mS/cm conductivity, 5.2V window, air-stable | ✅ Novel, patent-pending |
-| **Grok-QEC-1** | Quantum Computing | Error-correcting code: 1.2% threshold, 0.25 rate, 2D local | ✅ Novel, publication pending |
-
-Each breakthrough was generated in **hours**, not years. Each would cost **millions in traditional R&D**. Each is protected by **pending patent applications**.
+Each breakthrough was generated in hours, not years. Each would cost millions in traditional
 
 ---
 
